@@ -3,6 +3,8 @@
 **Vishubh Translator** is a lightweight, web-based language translation application built with **Python (Flask)**. It features a modern, responsive user interface with a dedicated **Dark/Light mode** toggle and utilizes the free [MyMemory API](https://mymemory.translated.net/) for translations.
 
 ---
+<img width="1900" height="824" alt="image" src="https://github.com/user-attachments/assets/3b5fba25-a233-48fe-8671-07168241b74b" />
+
 
 ## ✨ Features
 
