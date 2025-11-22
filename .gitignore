@@ -1,0 +1,33 @@
+# --- Python ---
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual Environments ---
+# Common names for virtual environment folders
+venv/
+env/
+.venv/
+.env/
+
+# --- Flask & Environment Variables ---
+# .env usually contains sensitive API keys/secrets and MUST be ignored
+.env
+
+# Note: .flaskenv usually contains public config (like FLASK_APP=app.py) 
+# and is often committed. If you have secrets in it, uncomment the line below:
+# .flaskenv
+
+# Flask instance folder (often used for instance-specific config)
+instance/
+.webassets-cache
+
+# --- IDE & Editor Settings (Optional but recommended) ---
+.vscode/
+.idea/
+*.swp
+
+# --- OS Generated Files ---
+.DS_Store
+Thumbs.db
